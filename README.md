@@ -1,2 +1,2 @@
 # tindog
-tindog is tinder for dog. It's just a page that I made to practice HTML, CSS and Bootstrap 4
+tindog is tinder for dog. This is a responsive site using HTML, CSS and Bootstrap 4
